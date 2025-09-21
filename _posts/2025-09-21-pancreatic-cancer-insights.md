@@ -14,6 +14,8 @@ Pancreatic cancer is a formidable health challenge, often diagnosed at advanced 
 In 2025, the United States is projected to see approximately **67,440 new cases** of pancreatic cancer, making up about **3.3% of all new cancer diagnoses**.  
 The disease is expected to result in nearly **52,000 deaths**, ranking it as the third leading cause of cancer-related mortality in the country.
 
+![Pancreatic Cancer Awareness](https://seenamagowitzfoundation.org/wp-content/uploads/2014/11/Screenshot-2025-01-25-at-9.28.28%E2%80%AFAM.jpg)
+
 _Source: [SEER Cancer Statistics](https://seer.cancer.gov/statfacts/html/pancreas.html)_
 
 ---
