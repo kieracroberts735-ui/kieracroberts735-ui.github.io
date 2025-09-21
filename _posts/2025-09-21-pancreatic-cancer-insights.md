@@ -15,6 +15,7 @@ In 2025, the United States is projected to see approximately **67,440 new cases*
 The disease is expected to result in nearly **52,000 deaths**, ranking it as the third leading cause of cancer-related mortality in the country.
 
 ![Pancreatic Cancer Awareness](https://seenamagowitzfoundation.org/wp-content/uploads/2014/11/Screenshot-2025-01-25-at-9.28.28%E2%80%AFAM.jpg)
+_Source: [(https://seenamagowitzfoundation.org/)_
 
 _Source: [SEER Cancer Statistics](https://seer.cancer.gov/statfacts/html/pancreas.html)_
 
