@@ -1,6 +1,6 @@
 ---
-title: "Understanding Pancreatic Cancer: Insights and Information"
-date: 2025-09-21
+Title: "Understanding Pancreatic Cancer: Insights and Information"
+Date: 2025-09-21
 ---
 
 # Understanding Pancreatic Cancer: Insights and Information
